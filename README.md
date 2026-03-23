@@ -10,6 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-green?style=for-the-badge\&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strong%20Typing-blue?style=for-the-badge\&logo=typescript)
 ![Architecture](https://img.shields.io/badge/Architecture-Service%20Layer-purple?style=for-the-badge)
+<img width="763" height="988" alt="image" src="https://github.com/user-attachments/assets/b8270dd5-620d-4204-bf15-2f8b435d1a44" />
 
 ---
 
